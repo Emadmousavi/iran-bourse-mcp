@@ -10,6 +10,7 @@
 [![MCP SDK 1.x and 2.x](https://img.shields.io/badge/MCP%20SDK-1.x%20%7C%202.x-F5B53D.svg)](https://modelcontextprotocol.io)
 [![Tools](https://img.shields.io/badge/tools-45%20read--only-2EC4B6.svg)](docs/TOOLS.md)
 [![Stars](https://img.shields.io/github/stars/msmahdinejad/iran-bourse-mcp?style=flat&color=F5B53D)](https://github.com/msmahdinejad/iran-bourse-mcp/stargazers)
+[![M8ven Score](https://m8ven.ai/badge/mcp/msmahdinejad-iran-bourse-mcp-1gxwls?v=3e81be8455e8a3975d3acc2af3a34753)](https://m8ven.ai/mcp/msmahdinejad-iran-bourse-mcp-1gxwls?s=readme)
 
 **[Website](https://msmahdinejad.github.io/iran-bourse-mcp/)** · **[Install](#install)** · **[Benchmarks](#benchmarks)** · **[Tools](docs/TOOLS.md)** · **[Screener](docs/SCREENER.md)** · **[Real examples](docs/EXAMPLES.md)** · **[Data notes](docs/DATA_SOURCES.md)** · **[راهنمای فارسی](docs/GUIDE.fa.md)** · **[فارسی](README.fa.md)**
 
